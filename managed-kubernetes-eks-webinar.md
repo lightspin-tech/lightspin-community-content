@@ -1,4 +1,4 @@
-# Managed Kubernetes Webinar
+# Managed Kubernetes EKS Webinar
 
 ## Links
 
