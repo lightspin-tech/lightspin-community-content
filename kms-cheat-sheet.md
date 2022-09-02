@@ -2,7 +2,7 @@
 
 ## Links
 
-[The Complete Guide to AWS KMS](https://blog.lightspin.io/the-complete-guide-to-aws-kms)
+[//]: <> ([The Complete Guide to AWS KMS](https://blog.lightspin.io/the-complete-guide-to-aws-kms)
 
 [AWS KMS whitepaper](https://d1.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
 
